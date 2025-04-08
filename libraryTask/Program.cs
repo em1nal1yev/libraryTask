@@ -41,7 +41,8 @@
                             Console.WriteLine("Id ni duzgun daxil ele!! ");
                             Console.WriteLine("Id daxil ele");
                         }
-                        library.GetBookById(bookId);
+                       
+                        Console.WriteLine(library.GetBookById(bookId));
                         break;
                     case "3":
                         Console.WriteLine("Silmek istediyiniz kitabin id sini daxil edin: ");
