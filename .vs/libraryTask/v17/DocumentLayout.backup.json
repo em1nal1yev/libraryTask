@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emin\\Desktop\\backEndTasks\\libraryTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C77258A-135F-46C2-B35A-E6CB6E18AF10}|libraryTask\\libraryTask.csproj|c:\\users\\emin\\desktop\\backendtasks\\librarytask\\librarytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C77258A-135F-46C2-B35A-E6CB6E18AF10}|libraryTask\\libraryTask.csproj|solutionrelative:librarytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C77258A-135F-46C2-B35A-E6CB6E18AF10}|libraryTask\\libraryTask.csproj|c:\\users\\emin\\desktop\\backendtasks\\librarytask\\librarytask\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C77258A-135F-46C2-B35A-E6CB6E18AF10}|libraryTask\\libraryTask.csproj|solutionrelative:librarytask\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C77258A-135F-46C2-B35A-E6CB6E18AF10}|libraryTask\\libraryTask.csproj|c:\\users\\emin\\desktop\\backendtasks\\librarytask\\librarytask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C77258A-135F-46C2-B35A-E6CB6E18AF10}|libraryTask\\libraryTask.csproj|solutionrelative:librarytask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAOgUAAAAAAAAAAAhwPMUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-08T06:03:44.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\libraryTask\\libraryTask\\Library.cs",
+              "RelativeDocumentMoniker": "libraryTask\\Library.cs",
+              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\libraryTask\\libraryTask\\Library.cs",
+              "RelativeToolTip": "libraryTask\\Library.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:33:33.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\libraryTask\\libraryTask\\Book.cs",
+              "RelativeDocumentMoniker": "libraryTask\\Book.cs",
+              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\libraryTask\\libraryTask\\Book.cs",
+              "RelativeToolTip": "libraryTask\\Book.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:26:41.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\libraryTask\\libraryTask\\Program.cs",
+              "RelativeDocumentMoniker": "libraryTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\libraryTask\\libraryTask\\Program.cs",
+              "RelativeToolTip": "libraryTask\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIAwwCsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:26:20.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

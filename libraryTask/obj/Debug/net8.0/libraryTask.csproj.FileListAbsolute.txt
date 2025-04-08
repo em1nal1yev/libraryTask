@@ -1,0 +1,15 @@
+C:\Users\Emin\Desktop\backEndTasks\libraryTask\libraryTask\obj\Debug\net8.0\libraryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\backEndTasks\libraryTask\libraryTask\obj\Debug\net8.0\libraryTask.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\backEndTasks\libraryTask\libraryTask\obj\Debug\net8.0\libraryTask.AssemblyInfo.cs
+C:\Users\Emin\Desktop\backEndTasks\libraryTask\libraryTask\obj\Debug\net8.0\libraryTask.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\backEndTasks\libraryTask\libraryTask\obj\Debug\net8.0\libraryTask.sourcelink.json
+C:\Users\Emin\Desktop\backEndTasks\libraryTask\libraryTask\bin\Debug\net8.0\libraryTask.exe
+C:\Users\Emin\Desktop\backEndTasks\libraryTask\libraryTask\bin\Debug\net8.0\libraryTask.deps.json
+C:\Users\Emin\Desktop\backEndTasks\libraryTask\libraryTask\bin\Debug\net8.0\libraryTask.runtimeconfig.json
+C:\Users\Emin\Desktop\backEndTasks\libraryTask\libraryTask\bin\Debug\net8.0\libraryTask.dll
+C:\Users\Emin\Desktop\backEndTasks\libraryTask\libraryTask\bin\Debug\net8.0\libraryTask.pdb
+C:\Users\Emin\Desktop\backEndTasks\libraryTask\libraryTask\obj\Debug\net8.0\libraryTask.dll
+C:\Users\Emin\Desktop\backEndTasks\libraryTask\libraryTask\obj\Debug\net8.0\refint\libraryTask.dll
+C:\Users\Emin\Desktop\backEndTasks\libraryTask\libraryTask\obj\Debug\net8.0\libraryTask.pdb
+C:\Users\Emin\Desktop\backEndTasks\libraryTask\libraryTask\obj\Debug\net8.0\libraryTask.genruntimeconfig.cache
+C:\Users\Emin\Desktop\backEndTasks\libraryTask\libraryTask\obj\Debug\net8.0\ref\libraryTask.dll
