@@ -24,7 +24,7 @@
                         string authorName = Console.ReadLine();
                         Console.WriteLine("qiymet daxil edin: ");
                         double bookPrice;
-                        while(!double.TryParse(Console.ReadLine(),out bookPrice))
+                        while(!double.TryParse(Console.ReadLine(),out bookPrice) || bookPrice < 0)
                         {
                             Console.WriteLine("Qiymeti duzgun qeyd ele!!!");
                             Console.WriteLine("qiymet daxil ele");
@@ -63,20 +63,20 @@
                         string authorunAdi = Console.ReadLine();
                         Console.WriteLine("qiymet daxil edin: ");
                         double bookunPricei;
-                        while (!double.TryParse(Console.ReadLine(), out bookunPricei))
+                        while (!double.TryParse(Console.ReadLine(), out bookunPricei) || bookunPricei < 0)
                         {
                             Console.WriteLine("Qiymeti duzgun qeyd ele!!!");
                             Console.WriteLine("qiymet daxil ele");
                         }
                         Book Book = new Book(bookunAdi, authorunAdi, bookunPricei);
-                        int evezolununId;
-                        while (!int.TryParse(Console.ReadLine(), out evezolununId))
+                        int evezolunanId;
+                        while (!int.TryParse(Console.ReadLine(), out evezolunanId))
                         {
                             Console.WriteLine("Id ni duzgun daxil edin: ");
                             Console.WriteLine("evez elemek istediyiniz kitabin id sini daxil edin: ");
                         }
                         Console.WriteLine("Bu kitabi hansi id li kitabnan evez etmek isteyirsizse onun id sini yazin: ");
-                        library.Update(evezolununId, Book);
+                        library.Update(evezolunanId, Book);
                         Console.WriteLine($"{bookunAdi} kitabi yaradildi ve {library.Name} kitabxanasina elave olundu.");
                         break;
                     case "5":

@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{9C77258A-135F-46C2-B35A-E6CB6E18AF10}|libraryTask\\libraryTask.csproj|solutionrelative:librarytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C77258A-135F-46C2-B35A-E6CB6E18AF10}|libraryTask\\libraryTask.csproj|c:\\users\\emin\\desktop\\backendtasks\\librarytask\\librarytask\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C77258A-135F-46C2-B35A-E6CB6E18AF10}|libraryTask\\libraryTask.csproj|solutionrelative:librarytask\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C77258A-135F-46C2-B35A-E6CB6E18AF10}|libraryTask\\libraryTask.csproj|c:\\users\\emin\\desktop\\backendtasks\\librarytask\\librarytask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C77258A-135F-46C2-B35A-E6CB6E18AF10}|libraryTask\\libraryTask.csproj|solutionrelative:librarytask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C77258A-135F-46C2-B35A-E6CB6E18AF10}|libraryTask\\libraryTask.csproj|c:\\users\\emin\\desktop\\backendtasks\\librarytask\\librarytask\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C77258A-135F-46C2-B35A-E6CB6E18AF10}|libraryTask\\libraryTask.csproj|solutionrelative:librarytask\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,26 +26,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Library.cs",
               "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\libraryTask\\libraryTask\\Library.cs",
               "RelativeDocumentMoniker": "libraryTask\\Library.cs",
               "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\libraryTask\\libraryTask\\Library.cs",
               "RelativeToolTip": "libraryTask\\Library.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T04:33:33.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\libraryTask\\libraryTask\\Book.cs",
               "RelativeDocumentMoniker": "libraryTask\\Book.cs",
               "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\libraryTask\\libraryTask\\Book.cs",
               "RelativeToolTip": "libraryTask\\Book.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA+wBMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T04:26:41.278Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "libraryTask\\Program.cs",
               "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\libraryTask\\libraryTask\\Program.cs",
               "RelativeToolTip": "libraryTask\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEEAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T04:26:20.649Z",
               "EditorCaption": ""
